@@ -6,5 +6,6 @@ public class Calculator{
     int y = 10;
     
     System.out.print(x + y);
+    System.out.print(y - x);
   }
 }
